@@ -103,7 +103,28 @@ Data Engineering     ███░░░░░░░ 30%
 
 # 📫 Connect With Me
 
-Coming Soon...
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Mon877-ars">
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/hermonginting">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="mailto:hermonginting.dev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+<a href="https://instagram.com/hermon.ginting1" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+</p>
 
 ---
 
