@@ -117,4 +117,9 @@ Coming Soon...
 
 Made with ❤️ by Hermon Ginting
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mon877-ars/Mon877-ars/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
 </p>
