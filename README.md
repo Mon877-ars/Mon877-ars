@@ -45,17 +45,17 @@
 # 📚 Currently Learning
 
 ```text
-Python               ██████████ 100%
+Python               ███░░░░░░░░░░░░ 30%
 
-Git                  ███████░░░ 70%
+Git                  ██░░░░░░░░░░░░░ 20%
 
-Linux                ███████░░░ 70%
+Linux                ░░░░░░░░░░░░░░░ 0%
 
-SQL                  ██████░░░░ 60%
+SQL                  ░░░░░░░░░░░░░░░ 0%
 
-Machine Learning     ████░░░░░░ 40%
+Machine Learning     ░░░░░░░░░░░░░░░ 0%
 
-Data Engineering     ███░░░░░░░ 30%
+Data Engineering     ░░░░░░░░░░░░░░░ 0%
 ```
 
 ---
