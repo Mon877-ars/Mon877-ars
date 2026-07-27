@@ -62,9 +62,10 @@ Data Engineering     ███░░░░░░░ 30%
 
 # 🎯 Roadmap
 
-- ✅ Python
-- ✅ Git
-- ✅ Linux
+- ✅ Python (Still Learning)
+- 🔄 C++ (Still learning)
+- 🔄 Git
+- 🔄 Linux
 - 🔄 Docker
 - 🔄 FastAPI
 - 🔄 TensorFlow
@@ -142,7 +143,7 @@ Data Engineering     ███░░░░░░░ 30%
 
 <p align="center">
 
-Made with ❤️ by Hermon Ginting
+Made by Hermon Ginting
 
 ## 🐍 Contribution Snake
 
