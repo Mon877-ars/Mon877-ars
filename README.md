@@ -10,7 +10,7 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Mon877-ars&label=Profile%20Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/Mon877-ars?label=Followers&style=flat&color=blue"/>
+<img src="https://img.shields.io/github/followers/Mon877-ars?label=Followers&style=flat&color=blue&v=2"/>
 <img src="https://img.shields.io/github/stars/Mon877-ars?affiliations=OWNER&style=flat&color=yellow"/>
 </p>
 
