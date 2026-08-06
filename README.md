@@ -60,7 +60,6 @@ Data Engineering     ░░░░░░░░░░░░░░░ 0%
 
 ---
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sage-iota-46.vercel.app/api?username=Mon877-ars&show_icons=true&theme=tokyonight)
 
