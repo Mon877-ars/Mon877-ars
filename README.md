@@ -42,22 +42,6 @@
 
 ---
 
-# 📚 Currently Learning
-
-```text
-Python               ███░░░░░░░░░░░░ 30%
-
-Git                  ██░░░░░░░░░░░░░ 20%
-
-Linux                ░░░░░░░░░░░░░░░ 0%
-
-SQL                  ░░░░░░░░░░░░░░░ 0%
-
-Machine Learning     ░░░░░░░░░░░░░░░ 0%
-
-Data Engineering     ░░░░░░░░░░░░░░░ 0%
-```
-
 ---
 ## 📊 GitHub Stats
 
