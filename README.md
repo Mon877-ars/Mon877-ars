@@ -2,7 +2,7 @@
   <img src="banner.png" width="90%" alt="Hermon Ginting">
 </p>
 
-<h1 align="center">Hi 👋, I'm Hermon Ginting</h1>
+<h1 align="center">Hi, I'm Hermon Ginting</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=00CFFF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Engineering+Student;Python+Developer;Machine+Learning+Enthusiast;Linux+Explorer;Always+Learning+New+Things" />
