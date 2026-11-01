@@ -74,15 +74,6 @@
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mon877-ars&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 📂 Featured Projects
 
